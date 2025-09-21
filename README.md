@@ -1,5 +1,3 @@
-# mp4-to-mp3-converter-v2
-feat: Implement batch conversion for mp4 files using C and Windows API
 # C语言批量音频提取工具 (Batch Audio Extractor in C)
 
 这是一个使用C语言编写的Windows命令行工具，旨在作为一个深入学习C语言与操作系统交互的实践项目。程序能够自动扫描所在目录，批量将所有的 `.mp4` 视频文件转换为 `.mp3` 音频文件。
